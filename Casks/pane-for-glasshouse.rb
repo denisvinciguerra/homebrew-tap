@@ -1,6 +1,6 @@
 cask "pane-for-glasshouse" do
-  version "1.1.0"
-  sha256 "3d065459b4b183b5418bef9e244d39ff2f8ca6234056684aeef2de4f3550f582"
+  version "1.3.0"
+  sha256 "b84fffa10e065d471c8f2e3f4d70500dfd4026b816d32102016de78a2e0f1100"
 
   url "https://github.com/denisvinciguerra/pane-for-glasshouse/releases/download/v#{version}/Pane-for-Glasshouse-#{version}.dmg"
   name "Pane for Glasshouse"
